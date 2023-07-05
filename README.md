@@ -4,11 +4,9 @@ I am Alexander Vice, a fullstack developer and former high school physics teache
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,py,flask,mysql,bootstrap,github,aws,vscode,postman,git,matlab,arduino&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,py,flask,mysql,tailwind,bootstrap,github,aws,docker,vscode,postman,git,matlab,arduino&perline=10" />
   </a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,py,flask,mysql,bootstrap,github,aws,vscode,postman,git,matlab,arduino&perline=9)](https://skillicons.dev)
 
 <!--
 **alexandervice/alexandervice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
