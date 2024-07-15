@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Alexander Vice, a fullstack developer and former high school physics teacher. I am a father, mentor, and a teacher at heart. I am passionate about finding the best solution to a problem. I value having a voice and being able to contribute to something that will improve people’s lives, primarily focused on the next generation.
+I am Alexander Vice, a technical sales engineer, with fullstack developer training and a former high school physics teacher. I am a father, mentor, and a teacher at heart. I am passionate about finding the best solution to a problem. I value having a voice and being able to contribute to something that will improve people’s lives.
 
 <p align="center">
   <a href="https://skillicons.dev">
